@@ -1,6 +1,7 @@
 # What is Python?
 
-Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python can be freely distributed and supports all major platforms 
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse.
+
 
 ## What do I need
 
@@ -20,7 +21,7 @@ You can download Python from the [website](https://www.python.org/downloads/). A
 
 2. Type `python` and press `Enter`. You should see something like this:
 
-
+![Python on Windows]()
 
 
 ### Mac/Linux
@@ -28,7 +29,7 @@ You can download Python from the [website](https://www.python.org/downloads/). A
 
 2. Type `python3` and press `Enter`. You should see something like this:
 
-![Python on Linux](https://github.com/colinat/Python/blob/main/images/python_terminal.png)
+![Python on Linux](https://github.com/colinat/Python/blob/main/media/python_terminal.png)
 
 
 3. Type `print('Hello world!')` after prompt (`>>>`) and press `Enter`. You should see the output being printed.
@@ -40,3 +41,12 @@ You can download Python from the [website](https://www.python.org/downloads/). A
 ## Summary
 
 You've learn a bit about Python and able to run Python code in a terminal session. 
+
+---
+
+[>> Next] 
+
+[Back to list of contents](https://github.com/colinat/Python)
+
+
+

@@ -16,14 +16,15 @@ Contents are separated into two sections:
 These are the basic concepts you'll need to write Python programs
 
 1. [What is Python?](https://github.com/colinat/Python/blob/main/basics/what-is-python.md)
-2. [Variables and data types]
-3. [Lists and tuples]
-4. [Branching]
-5. [Loops]
-6. [Dictionaries]
-7. [Functions]
-8. [Classes]
-9. [Files and Exceptions]
+2. [IDEs and Code Editors](https://github.com/colinat/Python/blob/main/basics/ides-and-code-editors.md)
+3. [Variables and data types]
+4. [Lists and tuples]
+5. [Branching]
+6. [Loops]
+7. [Dictionaries]
+8. [Functions]
+9. [Classes]
+10. [Files and Exceptions]
 
 
 ### Advanced
@@ -38,5 +39,5 @@ These are the basic concepts you'll need to write Python programs
 
 ## Reference source
 
-Lessons in the notebook were adapted from various sources including [Kaggle](https://www.kaggle.com/), an [online site on Python](https://python-textbok.readthedocs.io/en/1.0/index.html) and the book: *Matthes, E. (2019). Python Crash Course (2nd ed.). No Starch Press.*
+Materials were adapted from various sources including [Kaggle](https://www.kaggle.com/), an [online site on Python](https://python-textbok.readthedocs.io/en/1.0/index.html) and the book: *Matthes, E. (2019). Python Crash Course (2nd ed.). No Starch Press.*
    
