@@ -19,7 +19,7 @@ Below is a list of some general purpose tools as well as Python-specific editors
 ### General editors and IDEs with Python support
 
 #### Eclipse + PyDev
-Website: [www.eclipse.org](www.eclipse.org)
+Website: [https://www.eclipse.org/](https://www.eclipse.org/)
 
 <img src="https://files.realpython.com/media/Eclipse_and_PyDev.fe2a1e745be6.png" height="300"/>
 
@@ -52,7 +52,7 @@ Website: [https://www.jetbrains.com/pycharm/](https://www.jetbrains.com/pycharm/
 
 
 #### Spyder
-Website: [https://github.com/spyder-ide/spyder](https://github.com/spyder-ide/spyder)
+Website: [https://www.spyder-ide.org/](https://www.spyder-ide.org/)
 
 <img src="https://files.realpython.com/media/spyder-ide-screenshot.90947590845b.png" height="300"/>
 
