@@ -17,7 +17,7 @@ These are the basic concepts you'll need to write Python programs
 
 1. [What is Python?](https://github.com/colinat/Python/blob/main/basics/what-is-python.md)
 2. [IDEs and Code Editors](https://github.com/colinat/Python/blob/main/basics/ides-and-code-editors.md)
-3. [Variables and data types]
+3. [Variables and Simple Data Types](https://github.com/colinat/Python/blob/main/basics/variables-and-simple-data-types.md)
 4. [Lists and tuples]
 5. [Branching]
 6. [Loops]

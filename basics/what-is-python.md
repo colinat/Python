@@ -32,9 +32,40 @@ You can download Python from the [website](https://www.python.org/downloads/). A
 ![Python on Linux](https://github.com/colinat/Python/blob/main/media/python_terminal.png)
 
 
-3. Type `print('Hello world!')` after prompt (`>>>`) and press `Enter`. You should see the output being printed.
+## Interactive mode
+The `>>>` means that Python is ready and we can enter a command. The basic idea is really simple: we enter a command, press `Enter`, enter another command, press `Enter` and keep going.
 
-4. Type `exit()` and press `Enter` to get out of Python interpreter.
+Now let's type `print('Hello world!')` after prompt (`>>>`) and press `Enter`. You should see the output being printed.
+
+```python
+>>> print("Hello world!")
+Hello world!
+>>> 
+```
+
+To exit the Python interpreter, type `exit()` and press `Enter`. 
+
+```python
+>>> exit()
+```
+
+
+## Running Python program from
+
+To start your first python program, launch a text editor. Save an empty Python file called `hello_world.py`. The extension `.py` tells the operating system that your file will contain a Python program. In the file, enter the following line
+
+```python
+print("Hello world!")
+```
+
+Now saved the file. Open a new terminal window, go to the folder where you have saved the file earlier. 
+Type `python hello_world.py` in the terminal window. You should see the following output:
+
+```python
+$ python hello_world.py 
+Hello world!
+$
+```
 
 
 

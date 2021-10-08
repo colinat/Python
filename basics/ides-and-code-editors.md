@@ -62,7 +62,7 @@ Website: [http://thonny.org/](http://thonny.org/)
 
 <img src="https://files.realpython.com/media/Thonny.cd8d2c35f9a3.png" height="300"/>
 
-You can refer to this [site](https://realpython.com/python-ides-code-editors-guide/#what-are-ides-and-code-editors) for brief explanations and other possible tool recommendation
+You can refer to [this site](https://realpython.com/python-ides-code-editors-guide/#what-are-ides-and-code-editors) for brief explanations on various editors and other possible tool recommendations
 
 
 ## Summary
@@ -71,6 +71,6 @@ You've learn what are some of the IDEs and code editors that can help you embark
 
 ---
 
-[<< Prev](https://github.com/colinat/Python/blob/main/basics/what-is-python.md) | [Next >>]()
+[<< Prev](https://github.com/colinat/Python/blob/main/basics/what-is-python.md) | [Next >>](https://github.com/colinat/Python/blob/main/basics/variables-and-simple-data-types.md)
 
 [Back to list of contents](https://github.com/colinat/Python)
