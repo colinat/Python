@@ -25,7 +25,8 @@ Website: [www.eclipse.org](www.eclipse.org)
 
 #### Sublime text
 Website: [http://www.sublimetext.com](http://www.sublimetext.com)
-![](https://files.realpython.com/media/Sublime_Text.55c3de3ec99f.png)
+
+<img src="https://files.realpython.com/media/Sublime_Text.55c3de3ec99f.png" height="300"/>
 
 #### Atom
 Website: [https://atom.io/](https://atom.io/)
