@@ -20,7 +20,7 @@ Below is a list of some general purpose tools as well as Python-specific editors
 
 #### Eclipse + PyDev
 Website: [www.eclipse.org](www.eclipse.org)
-<br></br>
+
 <img src="https://files.realpython.com/media/Eclipse_and_PyDev.fe2a1e745be6.png" height="300"/>
 
 #### Sublime text
@@ -30,30 +30,37 @@ Website: [http://www.sublimetext.com](http://www.sublimetext.com)
 
 #### Atom
 Website: [https://atom.io/](https://atom.io/)
-![](https://files.realpython.com/media/Atom.620cf6d10a8a.png)
+
+<img src="https://files.realpython.com/media/Atom.620cf6d10a8a.png" height="300"/>
 
 #### Visual Studio
 Website: [https://www.visualstudio.com/vs/](https://www.visualstudio.com/vs/)
-![](https://visualstudio.microsoft.com/wp-content/uploads/2019/05/python-development-cropped.jpg)
+
+<img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/05/python-development-cropped.jpg" height="300"/>
 
 #### Visual Studio Code
 Website: [https://code.visualstudio.com/](https://code.visualstudio.com/)
-![](https://files.realpython.com/media/VS_Code.95cbd7e1c9a7.png)
+
+<img src="https://files.realpython.com/media/VS_Code.95cbd7e1c9a7.png" height="300"/>
 
 ### Python-specific Editors and IDEs
 
 #### PyCharm
 Website: [https://www.jetbrains.com/pycharm/](https://www.jetbrains.com/pycharm/)
-![](https://files.realpython.com/media/PyCharm.2e26d23c921c.png)
+
+<img src="https://files.realpython.com/media/PyCharm.2e26d23c921c.png" height="300"/>
 
 
 #### Spyder
 Website: [https://github.com/spyder-ide/spyder](https://github.com/spyder-ide/spyder)
-![](https://files.realpython.com/media/spyder-ide-screenshot.90947590845b.png)
+
+<img src="https://files.realpython.com/media/spyder-ide-screenshot.90947590845b.png" height="300"/>
+
 
 #### Thonny
 Website: [http://thonny.org/](http://thonny.org/)
-![](https://files.realpython.com/media/Thonny.cd8d2c35f9a3.png)
+
+<img src="https://files.realpython.com/media/Thonny.cd8d2c35f9a3.png" height="300"/>
 
 You can refer to this [site](https://realpython.com/python-ides-code-editors-guide/#what-are-ides-and-code-editors) for brief explanations and other possible tool recommendation
 
