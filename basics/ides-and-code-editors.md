@@ -20,7 +20,7 @@ Below is a list of some general purpose tools as well as Python-specific editors
 
 #### Eclipse + PyDev
 Website: [www.eclipse.org](www.eclipse.org)
-![](https://files.realpython.com/media/Eclipse_and_PyDev.fe2a1e745be6.png =150x)
+<img src="https://files.realpython.com/media/Eclipse_and_PyDev.fe2a1e745be6.png" height="150"/>
 
 #### Sublime text
 Website: [http://www.sublimetext.com](http://www.sublimetext.com)
