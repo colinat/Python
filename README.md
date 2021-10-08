@@ -18,14 +18,14 @@ These are the basic concepts you'll need to write Python programs
 1. [What is Python?](https://github.com/colinat/Python/blob/main/basics/what-is-python.md)
 2. [IDEs and Code Editors](https://github.com/colinat/Python/blob/main/basics/ides-and-code-editors.md)
 3. [Variables and Data Types](https://github.com/colinat/Python/blob/main/basics/variables-and-data-types.md)
-4. [Strings, Numbers, Booleans and None]
-4. [Lists and tuples]
-5. [Branching]
-6. [Loops]
-7. [Dictionaries]
-8. [Functions]
-9. [Classes]
-10. [Files and Exceptions]
+4. [Strings, Numbers, Booleans](https://github.com/colinat/Python/blob/main/basics/strings-numbers-and-booleans.md)
+4. [Lists, Tuples, Sets, Dictionaries]
+5. [If, If-Else, Else]
+6. [For and While Loops]
+7. [Functions]
+8. [Classes]
+9. [Exception Handling]
+10. [Files and I/O]
 
 
 ### Advanced
