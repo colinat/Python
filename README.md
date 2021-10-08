@@ -15,7 +15,7 @@ Contents are separated into two sections:
 
 These are the basic concepts you'll need to write Python programs
 
-1. [What is Python?]
+1. [What is Python?](https://github.com/colinat/Python/blob/main/basics/what-is-python.md)
 2. [Variables and data types]
 3. [Lists and tuples]
 4. [Branching]

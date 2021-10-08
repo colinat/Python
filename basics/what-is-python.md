@@ -28,8 +28,7 @@ You can download Python from the [website](https://www.python.org/downloads/). A
 
 2. Type `python3` and press `Enter`. You should see something like this:
 
-![](http
-
+![Python on Linux](https://github.com/colinat/Python/blob/main/images/python_terminal.png)
 
 
 3. Type `print('Hello world!')` after prompt (`>>>`) and press `Enter`. You should see the output being printed.
