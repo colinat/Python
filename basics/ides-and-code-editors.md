@@ -71,6 +71,6 @@ You've learn what are some of the IDEs and code editors that can help you embark
 
 ---
 
-[<< Prev](https://github.com/colinat/Python/blob/main/basics/what-is-python.md) | [Next >>](https://github.com/colinat/Python/blob/main/basics/variables-and-data-types.md)
+[<< Prev (What is Python?)](https://github.com/colinat/Python/blob/main/basics/what-is-python.md) | [Next (Variables and Data Types) >>](https://github.com/colinat/Python/blob/main/basics/variables-and-data-types.md)
 
 [Back to list of contents](https://github.com/colinat/Python)

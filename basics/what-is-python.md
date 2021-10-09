@@ -52,13 +52,13 @@ To exit the Python interpreter, type `exit()` and press `Enter`.
 
 ## Running Python program from
 
-To start your first python program, launch a text editor. Save an empty Python file called `hello_world.py`. The extension `.py` tells the operating system that your file will contain a Python program. In the file, enter the following line
+To start your first python program, launch a text editor. Save an empty Python file called `hello_world.py`. The extension `.py` tells the operating system that your file will contain a Python program. In the file, enter the following line:
 
 ```python
 print("Hello world!")
 ```
 
-Now saved the file. Open a new terminal window, go to the folder where you have saved the file earlier. 
+Now saved the [file](https://github.com/colinat/Python/blob/main/examples/hello_world.py). Open a new terminal window, go to the folder where you have saved the file earlier. 
 Type `python hello_world.py` in the terminal window. You should see the following output:
 
 ```python
@@ -75,7 +75,7 @@ You've learn a bit about Python and able to run Python code in a terminal sessio
 
 ---
 
-[Next >>](https://github.com/colinat/Python/blob/main/basics/ides-and-code-editors.md)
+[Next (IDEs and Code Editors) >>](https://github.com/colinat/Python/blob/main/basics/ides-and-code-editors.md)
 
 [Back to list of contents](https://github.com/colinat/Python)
 

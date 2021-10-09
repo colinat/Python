@@ -170,6 +170,7 @@ When you divide any two numbers, even if they are integers that result in a whol
 9.0
 ```
 
+#### Floor division
 Note that Python has two kinds of division. "True division" using `/` always gives us a float. The other is a "floor division" using `//` which gives us a result that's rounded down to the next integer
 
 ```python
@@ -179,6 +180,7 @@ Note that Python has two kinds of division. "True division" using `/` always giv
 1
 ```
 
+#### Modulo operator
 You can use the Python modulo operator, `%`, to calculate the remainder of dividing two values:
 
 ```python
@@ -251,6 +253,6 @@ False
 
 ---
 
-[<< Prev](https://github.com/colinat/Python/blob/main/basics/variables-and-data-types.md) | [Next >>]()
+[<< Prev (Variables and Data Types)](https://github.com/colinat/Python/blob/main/basics/variables-and-data-types.md) | [Next (Lists, Tuples, Dictionaries) >>](https://github.com/colinat/Python/blob/main/basics/lists-tuples-dictionaries.md)
 
 [Back to list of contents](https://github.com/colinat/Python)
