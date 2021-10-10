@@ -50,7 +50,7 @@ To exit the Python interpreter, type `exit()` and press `Enter`.
 ```
 
 
-## Running Python program from
+## Running Python program
 
 To start your first python program, launch a text editor. Save an empty Python file called `hello_world.py`. The extension `.py` tells the operating system that your file will contain a Python program. In the file, enter the following line:
 

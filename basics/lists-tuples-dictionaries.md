@@ -75,7 +75,8 @@ To access a range of elements in a list, you need to slice a list. One way to do
 ['trek', 'cannondale', 'redline']
 ```
 
-Simple illustration: 
+Simple illustration:
+
 <img src="https://www.learnbyexample.org/wp-content/uploads/python/Python-List-Slicing-Illustration.png" height="300"/>
 
 
@@ -326,6 +327,9 @@ In Python, you can store multiple dictionaries in a list, or a list of items as 
 + You've learn what are lists and how to work with them. 
 + Tuples are almost like lists but they are immutable, i.e. cannot be modified. 
 + Dictionaries are a collection of key-value pairs that you can retrieve a value using its associated key, add or remove key-value pairs.
+
+
+*Note: From the following chapters onwards, the code examples will be demonstrated using IDE such as Spyder, instead of the Python interpreter in terminal window (thus the `>>>` will be absent). Using an IDE or code editor easily allow you to enter several code lines before executing those lines of code.* 
 
 ---
 
