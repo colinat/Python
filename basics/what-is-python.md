@@ -21,7 +21,7 @@ You can download Python from the [website](https://www.python.org/downloads/). A
 
 2. Type `python` and press `Enter`. You should see something like this:
 
-![Python on Windows]()
+![Python on Windows](https://github.com/colinat/Python/blob/main/media/python_cmdprompt.png)
 
 
 ### Mac/Linux

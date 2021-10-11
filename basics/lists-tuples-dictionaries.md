@@ -328,11 +328,8 @@ In Python, you can store multiple dictionaries in a list, or a list of items as 
 + Tuples are almost like lists but they are immutable, i.e. cannot be modified. 
 + Dictionaries are a collection of key-value pairs that you can retrieve a value using its associated key, add or remove key-value pairs.
 
-
-*Note: From the following chapters onwards, the code examples will be demonstrated using IDE such as Spyder, instead of the Python interpreter in terminal window (thus the `>>>` will be absent). Using an IDE or code editor easily allow you to enter several code lines before executing those lines of code.* 
-
 ---
 
-[<< Prev (Strings, Numbers, Booleans)](https://github.com/colinat/Python/blob/main/basics/strings-numbers-and-booleans.md) | [Next >>]()
+[<< Prev (Strings, Numbers, Booleans)](https://github.com/colinat/Python/blob/main/basics/strings-numbers-and-booleans.md) | [Next >>](https://github.com/colinat/Python/blob/main/basics/if-elif-else.md)
 
 [Back to list of contents](https://github.com/colinat/Python)
