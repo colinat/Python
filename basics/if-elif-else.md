@@ -2,7 +2,7 @@
 
 ## Using `if` statements
 
-Programming often involves examining a set of [conditions](https://github.com/colinat/Python/blob/main/basics/strings-numbers-and-booleans.md#booleans) and deciding which action to take based on those conditions. Python’s `if` statement allows you to examine the current state of a program and respond appropriately to that state.
+Programming often involves examining a set of conditions (recall earlier [chapter](https://github.com/colinat/Python/blob/main/basics/strings-numbers-and-booleans.md#booleans) on booleans) and deciding which action to take based on those conditions. Python’s `if` statement allows you to examine the current state of a program and respond appropriately to that state.
 
 The simplest kind of if statement has one test and one action:
 
@@ -11,7 +11,9 @@ if conditional_test:
     do something
 ```
 
-**Note:** Python uses indentation to determine when one line of code is connected to the line above it. Always indent the line after the `if` statement.
+***Note 1:** Python uses indentation to determine when one line of code is connected to the line above it. Always indent the line after the `if` statement.*
+
+***Note 2:** Note especially the use of colons (:) at the end of the `if` statement. A colon is used to start an indent suite of statements. It is also used in case of `while`, `for`, `def` and class statements which you will learn in later chapters.
 
 You can put any conditional test in the first line and just about any action in the indented block following the test. If the conditional test evaluates to `True`, Python executes the code following the `if` statement. If the test evaluates to `False`, Python ignores the code following the `if` statement. For example:
 
@@ -77,9 +79,9 @@ The concepts of `if`-`elif`-`else` can be summarised in the illustration below:
 ![](https://www.pythontutorial.net/wp-content/uploads/2020/10/Python-if-elif-else-statement.png)
 
 
-## Branching
+## More on `if`-`elif`-`else`
 
-Now we've learn the basics of using `if`, `else` and `elif` statements, lets explore how to utilise these to develop different ways of branching in our program:
+Now we've learn the basics of using `if`, `else` and `elif` statements, lets explore how to utilise these to tackle different conditional tests in our code:
 
 
 ### Using Multiple `elif` Blocks
@@ -157,6 +159,6 @@ Finished making your pizza!
 
 ---
 
-[<< Prev (Lists, Tuples, Dictionaries)](https://github.com/colinat/Python/blob/main/basics/lists-tuples-dictionaries.md) | [Next >>]()
+[<< Prev (Lists, Tuples, Dictionaries)](https://github.com/colinat/Python/blob/main/basics/lists-tuples-dictionaries.md) | [Next >> (for and while loops)](https://github.com/colinat/Python/blob/main/basics/for-and-while-loops.md)
 
 [Back to list of contents](https://github.com/colinat/Python)
