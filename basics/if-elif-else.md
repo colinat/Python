@@ -159,6 +159,6 @@ Finished making your pizza!
 
 ---
 
-[<< Prev (Lists, Tuples, Dictionaries)](https://github.com/colinat/Python/blob/main/basics/lists-tuples-dictionaries.md) | [Next >> (for and while loops)](https://github.com/colinat/Python/blob/main/basics/for-and-while-loops.md)
+[<< Prev](https://github.com/colinat/Python/blob/main/basics/lists-tuples-dictionaries.md) | [Next >>](https://github.com/colinat/Python/blob/main/basics/for-and-while-loops.md)
 
 [Back to list of contents](https://github.com/colinat/Python)

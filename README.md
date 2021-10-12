@@ -22,7 +22,7 @@ These are the basic concepts you'll need to write Python programs
 4. [Lists, Tuples, Dictionaries](https://github.com/colinat/Python/blob/main/basics/lists-tuples-dictionaries.md)
 5. [if, elif, else](https://github.com/colinat/Python/blob/main/basics/if-elif-else.md)
 6. [for and while Loops](https://github.com/colinat/Python/blob/main/basics/for-and-while-loops.md)
-7. [Functions]
+7. [Functions](https://github.com/colinat/Python/blob/main/basics/functions.md)
 8. [Classes]
 9. [Exception Handling]
 10. [Files and I/O]

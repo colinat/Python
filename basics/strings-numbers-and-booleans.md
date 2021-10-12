@@ -253,6 +253,6 @@ False
 
 ---
 
-[<< Prev (Variables and Data Types)](https://github.com/colinat/Python/blob/main/basics/variables-and-data-types.md) | [Next (Lists, Tuples, Dictionaries) >>](https://github.com/colinat/Python/blob/main/basics/lists-tuples-dictionaries.md)
+[<< Prev](https://github.com/colinat/Python/blob/main/basics/variables-and-data-types.md) | [Next >>](https://github.com/colinat/Python/blob/main/basics/lists-tuples-dictionaries.md)
 
 [Back to list of contents](https://github.com/colinat/Python)
