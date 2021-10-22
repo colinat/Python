@@ -30,13 +30,9 @@ These are the basic concepts you'll need to write Python programs
 
 ### Advanced
 
+
+
 ---
-
-
-
-
-
-
 
 ## Reference source
 
