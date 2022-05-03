@@ -330,6 +330,6 @@ In Python, you can store multiple dictionaries in a list, or a list of items as 
 
 ---
 
-[<< Prev](https://github.com/colinat/Python/blob/main/basics/strings-numbers-and-booleans.md) | [Next >>](https://github.com/colinat/Python/blob/main/basics/if-elif-else.md)
+[<< Prev](https://github.com/colinat/Python/blob/main/basics/chapter-04.md) | [Next >>](https://github.com/colinat/Python/blob/main/basics/chapter-06.md)
 
 [Back to list of contents](https://github.com/colinat/Python)

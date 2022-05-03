@@ -407,6 +407,6 @@ Lynn would like to climb Devil's Thumb.
 + `while` loops are useful when processing items in a list or when filling a dictionary
 ---
 
-[<< Prev](https://github.com/colinat/Python/blob/main/basics/if-elif-else.md) | [Next >>](https://github.com/colinat/Python/blob/main/basics/functions.md)
+[<< Prev](https://github.com/colinat/Python/blob/main/basics/chapter-06.md) | [Next >>](https://github.com/colinat/Python/blob/main/basics/chapter-08.md)
 
 [Back to list of contents](https://github.com/colinat/Python)

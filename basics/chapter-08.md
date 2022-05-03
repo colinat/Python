@@ -338,6 +338,6 @@ NameError: name 'b' is not defined
 + Variables defined in a function will be local only to that function; they will ceased to exist after the end of the function execution in the code.
 
 
-[<< Prev](https://github.com/colinat/Python/blob/main/basics/for-and-while-loops.md) | [Next >>](https://github.com/colinat/Python/blob/main/basics/classes.md)
+[<< Prev](https://github.com/colinat/Python/blob/main/basics/chapter-07.md) | [Next >>](https://github.com/colinat/Python/blob/main/basics/chapter-09.md)
 
 [Back to list of contents](https://github.com/colinat/Python)

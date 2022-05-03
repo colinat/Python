@@ -241,6 +241,6 @@ We will learn more on how to use these data types in our code in the next chapte
 
 ---
 
-[<< Prev](https://github.com/colinat/Python/blob/main/basics/ides-and-code-editors.md) | [Next >>](https://github.com/colinat/Python/blob/main/basics/strings-numbers-and-booleans.md)
+[<< Prev](https://github.com/colinat/Python/blob/main/basics/chapter-02.md) | [Next >>](https://github.com/colinat/Python/blob/main/basics/chapter-04.md)
 
 [Back to list of contents](https://github.com/colinat/Python)

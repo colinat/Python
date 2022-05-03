@@ -75,7 +75,7 @@ You've learn a bit about Python and able to run Python code in a terminal sessio
 
 ---
 
-[Next >>](https://github.com/colinat/Python/blob/main/basics/ides-and-code-editors.md)
+[Next >>](https://github.com/colinat/Python/blob/main/basics/chapter-02.md)
 
 [Back to list of contents](https://github.com/colinat/Python)
 
