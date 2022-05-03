@@ -29,7 +29,7 @@ Things to note about the class:
 
 ## The __init()__ constructor
 
-The first function is called `__init__()`, which is a special method. The purpose of this method is thus to set up a new object using data that we have provided. Note that this method has two leading underscores and two trailing underscores on each side of `__init__()`; these are called dunders. Names that have dunders are reserved for special use in Python. Basically, we are overloading the `__init__()` method in the example above.
+The first function is called `__init__()`, which is a special method. The purpose of this method is thus to set up a new object using data that we have provided. Note that this method has two leading underscores and two trailing underscores on each side of `__init__()`; these are called _dunders_. Names that have dunders are reserved for special use in Python. Basically, we are overloading the `__init__()` method in the example above.
 
 We define the `__init()__` method to have three parameters: `self`, name and age. The `self` parameter is required and it must come first before other parameters. Every method call associated with an instance automatically passes self, which is a reference to the instance itself; it gives the individual instance access to the attributes and methods in the class.
 
@@ -42,25 +42,61 @@ We can now tell Python to make an instance representing a specific dog:
 ```python
 >>> # creating class instance of Dog and assign to object variable my_dog
 >>> my_dog = Dog("Willie", 5)
->>> # accessing dog's attributes - name and age
->>> print(f"My dog's name is {my_dog.name}.")
+```
+
+### Accessing attributes
+To access the attributes of an instance, you use the dot notation. We can access the value of my_dog’s attribute name by writing:
+
+```python
+>>> print("my_dog.name")
+Willie
+>>># accessing dog's attributes - name and age
+>>>print(f"My dog's name is {my_dog.name}.")
 My dog's name is Willie.
 >>> print(f"My dog is {my_dog.age} years old.")
 My dog is 5 years old.
 ```
 
-### Accessing attributes
-To access the attributes of an instance, you use dot notation. At v we access 
-the value of my_dog’s attribute name by writing:
-
-
 ### Calling methods
+We can call any method defined in the class *Dog*. For example:
 
-
+```python
+>>># calling object methods
+>>>my_dog.sit()
+Willie is now sitting.
+>>>my_dog.roll_over()
+Willie rolled over!
+```
 
 ### Creating multiple instances
+You can create as many instances from a class as you need. Let's create a second dog:
+
+```python
+# define another instance of class Dog
+neighbours_dog = Dog('Lucy', 3)
 
 
+# testing out
+print(f"My dog's name is {my_dog.name}.")
+print(f"My dog is {my_dog.age} years old.")
+my_dog.sit()
+
+print(f"\nMy neighbour's dog is named {neighbours_dog.name}.")
+print(f"My neighbour's dog is {neighbours_dog.age}.")
+neighbours_dog.roll_over()
+
+```
+
+Output:
+```python
+My dog's name is Willie.
+My dog is 5 years old.
+Willie is now sitting.
+
+My neighbour's dog is named Lucy.
+My neighbour's dog is 3.
+Lucy rolled over!
+```
 
 
 ## Inheritance
@@ -124,17 +160,49 @@ This car has a 75-kWh battery.
 ```
 
 
-
 ## Importing classes
+You can import the classes stored in modules into your main program in Python. For example, we can store class definitions into a separate file named _car.py_ and import the classes from that module. You can import as many classes as you need as well:
 
+```Python
+from car import Car, ElectricCar
+
+my_tesla = ElectricCar('tesla', 'model s', 2019)
+print(my_tesla.get_descriptive_name)
+my_tesla.describe_battery()
+```
+
+Output:
+
+```python
+2019 tesla model s
+This car has a 75-kWh battery.
+```
+
+### Different ways of importing
+Apart from the above which import only specific specific classes/methods, there are other various ways of importing a class/module as shown below:
+
+```python
+# import entire module
+import car
+
+# import all classes from a module
+from car import *
+```
+
+You can use an alias for the imported module...
+
+```python
+# using alias
+from car import ElectricCar as EC
+```
 
 
 ## Summary
 
-You've learn what are some of the IDEs and code editors that can help you embark on Python coding projects. 
+You've learn classes that provide a means of bundling data and functionality together in Python. 
 
 ---
 
-[<< Prev](https://github.com/colinat/Python/blob/main/basics/functions.md) | [Next >>]()
+[<< Prev](https://github.com/colinat/Python/blob/main/basics/chapter-08.md) | [Next >>]()
 
 [Back to list of contents](https://github.com/colinat/Python)
