@@ -199,7 +199,9 @@ from car import ElectricCar as EC
 
 ## Summary
 
-You've learn classes that provide a means of bundling data and functionality together in Python. 
++You've learn classes that provide a means of bundling data and functionality together in Python. 
++Each class instance can have attributes attached to it.
++Class instances can also have methods.
 
 ---
 
